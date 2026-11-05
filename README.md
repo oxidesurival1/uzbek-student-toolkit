@@ -12,7 +12,7 @@ O‘zbek tilidagi bepul, ochiq kodli mini web-ilova. Talabalar uchun kundalik hi
 Python 3.10 yoki undan yangiroq versiya kerak.
 
 ```bash
-git clone https://github.com/USERNAME/uzbek-student-toolkit.git
+git clone https://github.com/oxidesurival1/uzbek-student-toolkit.git
 cd uzbek-student-toolkit
 python -m venv .venv
 ```
